@@ -1,0 +1,8 @@
+file_format: "1"
+id: KUKEY42
+name: KUKEY42
+type: shield
+url: https://github.com/r-Keys-kbd/zmk-config-KUKEY42
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

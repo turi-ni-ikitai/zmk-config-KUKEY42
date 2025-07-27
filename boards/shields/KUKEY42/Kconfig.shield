@@ -1,0 +1,5 @@
+config SHIELD_KUKEY42_R
+    def_bool $(shields_list_contains,KUKEY42_R)
+
+config SHIELD_KUKEY42_L
+    def_bool $(shields_list_contains,KUKEY42_L)
